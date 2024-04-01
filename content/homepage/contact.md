@@ -17,4 +17,4 @@ header_menu: true
 
 {{<icon class="fa fa-camera">}}&nbsp;[@elspethopen](https://instagram.com/elspethopen)
 
-{{<icon class="fa fa-envelope">}}&nbsp;[elspethowen@gmail.com](mailto:elspethowen@gmail.com)
+{{<icon class="fa fa-envelope">}}&nbsp;[elspethowen@icloud.com](mailto:elspethowen@icloud.com)
