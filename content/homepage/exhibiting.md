@@ -6,9 +6,7 @@ weight: 4
 header_menu: true
 ---
 
-* Grantchester Art Fair on **April Sat 13 - Sun 14 2024** 10:30-5:30 at the Grantchester Village Hall. Preview Friday April 12 6-8pm £5 includes drink and music. 
-
-* Helen and Elspeth will be exhbiting separately during Cambridge Open Studios in **July 2024** -- Helen 1st and 3rd weeks, Elspeth 2nd and 3rd weeks.
+* Helen and Elspeth will be exhibiting at their own studios during Cambridge Open Studios in **July 2024** -- [Helen 1st and 3rd weeks](http://helencook.art/blog/open-studios), Elspeth 2nd and 3rd weeks.
 
 ### Book and Card Collections
 
