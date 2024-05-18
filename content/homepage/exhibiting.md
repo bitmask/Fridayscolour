@@ -11,3 +11,5 @@ header_menu: true
 ### Book and Card Collections
 
 We have designed a 51 page book that collects together 32 photographs from the first 16 weeks of this project.  Prints of the photos are also available in 6 thematic collections of 5 A6 sized prints.  The book and prints are available to purchase from either of us at the above exhibitions.  Please email for further information.  
+
+![card showing an image of blue blackbird eggs](/images/card.jpg)
